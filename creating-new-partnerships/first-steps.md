@@ -2,6 +2,15 @@
 
 \*\*\*\*[**📣**](https://emojipedia.org/megaphone/)**: We have an** [**open projects co-lead role**](https://codeforphilly.org/pages/leadership-support_team_open_positions/#projects-lead) **on the Code for Philly leadership team.**
 
+There are four steps to creating a project.
+
+* [ ] [**Submit the intake questionnaire**](TODO) ****- This short questionnaire helps us understand your goals and the problem(s) you want to solve.
+* [ ] [**Project discovery and research**](TODO) ****- Someone from Code for Philly will work with you to fill out the [project launch doc](TODO) to explore problems, opportunities, and solutions.
+* [ ] [**Leadership review**](TODO) ****- The Code for Philly leadership team will review the project launch doc.
+* [ ] [**Launch**](TODO) ****- Once approved, you can create a [project page](TODO), a [Slack channel](TODO), and [pitch the project at a hack night!](TODO)
+
+
+---------------------------------------
 Before starting a project, make sure that you have a Code for Philly account and have joined our [\#partnerships slack channel](http://codeforphilly.org/chat?partnerships) \(shown in screencast below\).
 
 {% embed url="https://v.usetapes.com/3ymYkl7IME" %}
