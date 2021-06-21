@@ -9,6 +9,69 @@ There are four steps to creating a project.
 * [ ] [**Leadership review**](TODO) ****- The Code for Philly leadership team will review the project launch doc.
 * [ ] [**Launch**](TODO) ****- Once approved, you can create a [project page](TODO), a [Slack channel](TODO), and [pitch the project at a hack night!](TODO)
 
+# Intake questionnaire
+
+# Project discovery and research
+
+# Leadership review
+
+Once the leadership team approves the project, you can move onto the final phase—launching your project!
+# Launch
+
+In the final phase to launch your project, there are four steps: 
+
+* [ ] [**Setup**](TODO) Create a Code for Philly account and join the `#partnerships` Slack channel.
+* [ ] [**Create a project page**](TODO) The project page will be live on the Code for Philly site and will be a critical way for you to recruit volunteers.
+* [ ] [**Create a Slack channel**](TODO) This Slack channel will be the primary place to communicate about your project.
+* [ ] [**Rally volunteers**](TODO) Get Code for Philly excited and engaged in your project.
+
+## Setup
+
+* [Create a Code for Philly account](https://codeforphilly.org/register?return=%2F) (if you haven't already).
+* Join our [\#partnerships slack channel](http://codeforphilly.org/chat?partnerships) \(shown in screencast below\).
+
+{% embed url="https://v.usetapes.com/3ymYkl7IME" %}
+
+## Create a project page
+
+First, go to the [Code for Philly projects page](https://codeforphilly.org/projects), and "add project" \(shown below\).Here, you can enter the title of your project, and name of your projects soon-to-be slack channel.
+
+![](../.gitbook/assets/cfp-projects-intake-2-tiny.gif)
+
+Here, you can enter the title of your project and name of your soon-to-be slack channel. In general, it's helpful to name your slack channel something similar to your project title. For example, if your project is named My Civic Project, a good slack channel might be my-civic-project.
+
+At the very bottom of the page, you'll add a **description of your project**. The description can be formatted using [markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). 
+
+The description you enter should be enough for volunteers to answer:
+
+* Who is this for?
+* What are its goals?
+* What roles are needed \(e.g. frontend engineer, or UX person\)
+
+See these the [PLSE expungement](https://codeforphilly.org/projects/philadelphia_lawyers_for_social_equity_-_record_expungement), [PAWS](https://codeforphilly.org/projects/paws_data_pipeline), and [Phlask](https://codeforphilly.org/projects/phlask--life-liberty_and_the_pursuit_of_water) projects for examples.
+
+## Create a Slack channel
+
+Sign on to the [Code for Philly slack](https://codeforphilly.org/chat?channel=partnerships). Pull up the create channel form and enter your channel name \(shown below\). The channel name should be the same as the one you entered when you created the project page \(in the field "Chat channel/hashtag"\).
+
+![](../.gitbook/assets/cfp-projects-intake-3.gif)
+
+
+## Rally volunteers
+
+There are several ways to increase engagement with your project, and get things moving towards the project's goals. 
+
+* Posting in the [\#projects\_help\_wanted](http://codeforphilly.org/chat?channel=projects_help_wanted) Slack channel
+* Attending hack nights \(or scheduling weekly online project meetings\)
+* Contributing to other Code for Philly projects, to get a sense for how projects are organized.
+
+
+Code for Philly leadership can also help rally volunteers, by...
+
+* Scheduling hack night presentations. Hack night is an event that occurs several times a month. See our [events page](https://www.meetup.com/Code-for-Philly/events/) for upcoming hack nights. Please reach out to Code for Philly leadership on Slack if you are interested in presenting at a hack night. If there are no hack nights scheduled, and we have capacity, we can work on creating an event.
+* Guiding volunteers to your project. If you keep activity in your project's slack channel, it helps us follow along with how things going, and point new volunteers to your project. 
+
+
 
 ---------------------------------------
 Before starting a project, make sure that you have a Code for Philly account and have joined our [\#partnerships slack channel](http://codeforphilly.org/chat?partnerships) \(shown in screencast below\).
